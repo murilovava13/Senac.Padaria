@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Testes", "6 - Testes", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.Padaria.Core", "..\rsc\Senac.Padaria.Core\Senac.Padaria.Core.csproj", "{D0EEDED7-8D58-4E51-AE94-A79854BF614E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.Padaria.Application", "..\rsc\Senac.Padaria.Application\Senac.Padaria.Application.csproj", "{5040AF81-6FEF-4F27-AA65-8BA2A467007F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{D0EEDED7-8D58-4E51-AE94-A79854BF614E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0EEDED7-8D58-4E51-AE94-A79854BF614E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0EEDED7-8D58-4E51-AE94-A79854BF614E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5040AF81-6FEF-4F27-AA65-8BA2A467007F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5040AF81-6FEF-4F27-AA65-8BA2A467007F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5040AF81-6FEF-4F27-AA65-8BA2A467007F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5040AF81-6FEF-4F27-AA65-8BA2A467007F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{08A679E0-4FA2-48E3-AE8E-BFA974DD0819} = {F20B1E90-1C60-4DE4-8A9F-699F87DD7EE8}
 		{892F1DB6-DA92-473C-93B3-28054418BBF1} = {F20B1E90-1C60-4DE4-8A9F-699F87DD7EE8}
 		{D0EEDED7-8D58-4E51-AE94-A79854BF614E} = {325BEDD4-E7B7-47D2-AE14-9A9BBD9C390E}
+		{5040AF81-6FEF-4F27-AA65-8BA2A467007F} = {956446B7-810C-4418-9ACF-FC28BA94D25A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B28363EE-9E52-49E1-B249-30EB3E0D5C3A}
